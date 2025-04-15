@@ -5,7 +5,7 @@ This project implements a **terminal-based Minesweeper game in C++**. The logic,
 ---
 
 ## Table Of Content
-1.[ 📉 Board State Representation
+1.[Board State Representation
 ](#board-state-representation)
 
 ## 🗂️ File Overview
@@ -98,7 +98,7 @@ This project implements a **terminal-based Minesweeper game in C++**. The logic,
 
 ---
 
-## 📉 Board State Representation
+## Board State Representation
 
 - **Mine cells** are represented with a `.`.
 - **Flagged cells** are marked with a custom symbol (e.g., `F` or 🚩).
