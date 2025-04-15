@@ -5,7 +5,8 @@ This project implements a **terminal-based Minesweeper game in C++**. The logic,
 ---
 
 ## Table Of Content
-[🗂️ File Overview](#file-overview)
+[ 📉 Board State Representation
+](#board-state-representation)
 
 ## 🗂️ File Overview
 
